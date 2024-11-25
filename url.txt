@@ -1,0 +1,3 @@
+URL Dataset : https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset?resource=download
+
+URL Deployment : https://huggingface.co/spaces/alridho/churn-prediction-p1m2-rmt037
